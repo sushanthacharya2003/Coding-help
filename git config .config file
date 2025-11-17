@@ -1,0 +1,36 @@
+[core]
+	editor = \"C:\\Users\\achar\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = sushanthacharya2003
+	email = acharyasushanth37@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+  s = status
+  co = checkout
+  br = branch
+  cm = commit -m
+  aa = add .
+  lg = log --oneline --graph --decorate --all
+  st = stash
+  df = diff
+
+
+
+r = \"C:\\Users\\achar\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = sushanthacharya2003
+	email = acharyasushanth37@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+  s = status
+  co = checkout
+  br = branch
+  cm = commit -m
+  aa = add .
+  acm = !git add . && git commit -m
+  lg = log --oneline --graph --decorate --all
+  st = stash
+  df = diff
+
